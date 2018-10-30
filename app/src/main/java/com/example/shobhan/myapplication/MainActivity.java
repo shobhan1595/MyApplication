@@ -23,4 +23,17 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
+
+    private int adfa(){
+        //This is the first theim
+        /// anything is heppen
+        int a = 0;
+        int b =2;
+        return a+b;
+
+
+    }
+
+
 }
