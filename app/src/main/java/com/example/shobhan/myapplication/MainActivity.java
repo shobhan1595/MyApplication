@@ -13,4 +13,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    private void anotherFirst(){
+        //This is the first theim
+    }
 }
