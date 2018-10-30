@@ -14,7 +14,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    private void anotherFirst(){
+    private int anotherFirst(){
         //This is the first theim
+        /// anything is heppen
+        int a = 0;
+        int b =2;
+        return a+b;
+
+
     }
 }
